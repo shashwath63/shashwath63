@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shashwath63
+-  <h1> Hi there👋,I’m Shashwath</h1>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on open source project
+-  I’m looking to collaborate on open source project
 - 📫 How to reach me is Dm me an email to->shashwathbn10@gmail.com
 
 <!---
