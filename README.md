@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Languages Used</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwath63&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
