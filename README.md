@@ -19,4 +19,9 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <h2>Languages Used</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwath63&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwath63&theme=tokyonight&layout=compact&show_icons=true&hide_border=true)">
+</br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwath63&theme=tokyonight&hide_border=true"><br/>
+  
+
+<img src="https://leetcard.jacoblin.cool/shashwath63"> <br>
