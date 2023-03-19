@@ -1,7 +1,6 @@
 -  <h1> Hi there👋,I’m Shashwath</h1>
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- I’m looking to collaborate in open source project
+- 👀 I’m interested in development
+- 🌱 I’m currently learning 
 - 📫 How to reach me ->shashwathbn10@gmail.com
 
 <!---
