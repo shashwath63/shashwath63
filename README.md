@@ -17,9 +17,11 @@
 <a href="https://www.leetcode.com/shashwath63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwath63" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">LeetCode Stats:</h3>
+
 <p align="left">
   <a href="https://leetcode.com/shashwath63/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=shashwath63&theme=dark" />
+    <img src="https://leetcode.card.workers.dev/?username=shashwath63&theme=dark" />
   </a>
 </p>
 
