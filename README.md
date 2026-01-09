@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Javascript, React, Spring Boot, DSA**
+- 💬 Ask me about **Javascript, React, Java, Spring Boot, DSA**
 
 - 📫 How to reach me **bnshashwath@gmail.com**
 
